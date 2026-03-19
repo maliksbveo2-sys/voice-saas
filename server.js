@@ -13,8 +13,8 @@ app.use(cors({
 }));
 
 // IMPORTANT: apni details daalo
-const API_KEY = "YOUR_ELEVENLABS_API_KEY";
-const VOICE_ID = "YOUR_VOICE_ID";
+const API_KEY = "sk_7da49b1049a2688cc2deb03f3cc537476a936ee888b5f32e";
+const VOICE_ID = "nzFihrBIvB34imQBuxub";
 
 // Test route (optional)
 app.get("/", (req, res) => {
